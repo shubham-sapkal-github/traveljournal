@@ -1,0 +1,11 @@
+.header-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 0.7rem;
+  padding-block: 1rem;
+  background: #f55a5a;
+  color: #ffffff;
+  font-size: 1em;
+  font-weight: 500;
+}
