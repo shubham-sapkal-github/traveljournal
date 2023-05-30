@@ -27,11 +27,6 @@ function home() {
         <h3>My Travel Journal</h3>
       </header>
       <main className="main-section">{cards}</main>
-      <div className="button">
-        <button>s</button>
-        <button>fd</button>
-        <button>f</button>
-      </div>
     </div>
   );
 }
